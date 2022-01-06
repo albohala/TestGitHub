@@ -8,11 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
-    // Abdullah comment
-
-    // hasdf
-
-
 
     // tahani commit
 }
